@@ -1,7 +1,6 @@
 ## 💫 About Me:
 Results-driven frontend developer with a passion for crafting<br>efficient and innovative solutions.
 
-[![](https://visitcount.itsvg.in/api?id=flaviurosca&icon=0&color=1)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=flaviurosca)
 
 ## 🌐 Socials:
