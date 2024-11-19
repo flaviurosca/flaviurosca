@@ -16,7 +16,9 @@ Results-driven frontend developer with a passion for crafting efficient and inno
 #
 #
 ## 🌐 Socials:
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviu-rosca-34570819a) 
+<!-- ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviu-rosca-34570819a) -->
+## [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" />](https://linkedin.com/in/flaviu-rosca-34570819a)
+
 
 ### [flaviurosca.com](https://flaviurosca.com/)
 
