@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Results-driven frontend developer with a passion for crafting efficient and innovative solutions.
+Results-driven frontend developer with a passion for crafting efficient and innovative solutions. Proficient in React and modern technologies such as TypeScript, Redux, and Node.js, with a solid foundation in web development.
 
 ![](https://komarev.com/ghpvc/?username=flaviurosca)
 
