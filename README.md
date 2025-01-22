@@ -22,7 +22,7 @@ Results-driven frontend developer with a passion for crafting efficient and inno
 
 ### [flaviurosca.com](https://flaviurosca.com/)
 
-📫 Reach me at: **contact@flaviurosca.com**
+### 📫 Reach me at: **contact@flaviurosca.com**
 #
 #
 ## 🏆 GitHub Trophies
