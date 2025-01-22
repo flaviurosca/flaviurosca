@@ -6,8 +6,8 @@ Results-driven frontend developer with a passion for crafting efficient and inno
 
 #
 # 🚀 Projects:
-  - **Car Insurance App**: [Live Demo](https://insurance.flaviurosca.com) | [GitHub Repository](https://github.com/flaviurosca/car-insurance-app)
-  - **Interactive CV**: [Live Site](https://flaviurosca.com)
+###  - **Car Insurance App**: [Live Demo](https://insurance.flaviurosca.com) | [GitHub Repository](https://github.com/flaviurosca/car-insurance-app)
+###  - **Interactive CV**: [Live Site](https://flaviurosca.com)
 #
 
 ## 💻 Tech Stack:
