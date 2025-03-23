@@ -6,6 +6,7 @@ Results-driven frontend developer with a passion for crafting efficient and inno
 
 #
 # 🚀 Projects:
+###  - **Fullstack Capstone Project | Coursera - IBM**: [GitHub Repo](https://github.com/flaviurosca/fullstack-capstone-project)
 ###  - **Car Insurance App**: [Live Demo](https://insurance.flaviurosca.com) | [GitHub Repository](https://github.com/flaviurosca/car-insurance-app)
 ###  - **Interactive CV**: [Live Site](https://flaviurosca.com)
 #
